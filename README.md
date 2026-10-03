@@ -1,14 +1,16 @@
-# LeoPlay Studio — Privacy
+# Leo Play Studio — Privacy
 
-Public privacy policies in Italian and English. Each app has its own policy.
+Public privacy policies. Each app has its own policy and supported languages.
 
-Developer: Alessio Scarano — LeoPlay Studio
+Developer: Alessio Scarano — Leo Play Studio
 
 Contact: leoplay.studio@gmail.com
 
 ## Leo Play&Learn
 
-Existing page (unchanged): https://thiagoalex8.github.io/leoplay-studio-privacy/
+Privacy policy in Italian, English, French, German, Spanish (Spain and Latin America), and Portuguese (Portugal and Brazil). Updated 3 October 2026. Generated from the offline policy sources in the private Leo Play&Learn repository using scripts/build-privacy-site.mjs. Only the root index.html and .nojekyll are generated; other app pages and this README are maintained separately.
+
+Page: https://thiagoalex8.github.io/leoplay-studio-privacy/
 
 ## Leo Dinoland
 
